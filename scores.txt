@@ -1,0 +1,2 @@
+touch scores.txt
+chmod 666 scores.txt
